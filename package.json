@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/konstantinvl/itprofit_vlasenko.git"
+    "url": "git+https://github.com/konstantinvl/kv_zikmes.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/konstantinvl/itprofit_vlasenko/issues"
+    "url": "https://github.com/konstantinvl/kv_zikmes/issues"
   },
-  "homepage": "https://github.com/konstantinvl/itprofit_vlasenko#readme",
+  "homepage": "https://github.com/konstantinvl/kv_zikmes#readme",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@types/react": "^18.0.25",
